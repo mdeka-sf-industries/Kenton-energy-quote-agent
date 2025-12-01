@@ -85,7 +85,7 @@ export default function ComparePage() {
                           />
                         </svg>
                         <p className="text-sm text-gray-700">
-                          There's no digital meter at this address. We're showing plans available for your current meter type.
+                          There&apos;s no digital meter at this address. We&apos;re showing plans available for your current meter type.
                         </p>
                       </div>
                     )}

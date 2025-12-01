@@ -37,7 +37,7 @@ export default function PostcodeStep() {
           Enter your postcode
         </h2>
         <p className="text-gray-600">
-          We'll use this to find available energy plans in your area
+          We&apos;ll use this to find available energy plans in your area
         </p>
       </div>
 

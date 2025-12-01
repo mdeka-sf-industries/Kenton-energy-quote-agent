@@ -176,7 +176,7 @@ export default function ConsumptionStep() {
             onClick={handleUnknownUsage}
             className="w-full py-3 px-4 border-2 border-gray-300 text-gray-700 rounded-xl font-medium hover:bg-gray-50 transition-colors"
           >
-            I don't know my usage
+            I don&apos;t know my usage
           </button>
         </div>
 

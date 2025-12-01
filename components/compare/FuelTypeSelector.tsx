@@ -24,7 +24,7 @@ export default function FuelTypeSelector({
   return (
     <div className="flex flex-col md:flex-row gap-6 md:gap-8">
       <div className="flex-1">
-        <p className="text-sm font-medium text-gray-700 mb-3">I'm looking for</p>
+        <p className="text-sm font-medium text-gray-700 mb-3">I&apos;m looking for</p>
         <div className="flex flex-wrap gap-4">
           <label className="flex items-center gap-2 cursor-pointer">
             <input
